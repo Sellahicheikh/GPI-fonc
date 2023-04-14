@@ -1,0 +1,37 @@
+1-Créer et gérer des dossiers
+	-création de dossiers	
+	-fonctionnalité de suppression de dossiers.
+	-fonctionnalité de renommage de dossiers.
+	-fonctionnalité de déplacement de dossiers.
+	-fonctionnalité de visualisation des dossiers.
+2-Importer et exporter des documents
+	-fonctionnalité d'importation de documents.
+	-fonctionnalité d'exportation de documents.
+	-fonctionnalité de conversion de documents.
+
+
+3-Indexation et recherche
+	-fonctionnalité d'indexation de documents.
+	-fonctionnalité de recherche de documents.
+	-fonctionnalité de filtrage des résultats de recherche.
+
+4-Permissions d'accès
+	-fonctionnalité de création de rôles.
+	- fonctionnalité de définition des niveaux d'autorisation.
+	- fonctionnalité de gestion des utilisateurs et des groupes.
+	-fonctionnalité de configuration des permissions d'accès.
+
+5-Intégrations 
+	-fonctionnalité d'intégration avec les outils de gestion de projet.
+	-fonctionnalité d'intégration avec les outils de collaboration.
+	-fonctionnalité d'intégration avec les outils de messagerie.
+
+6-Sécurité et confidentialité 
+	-fonctionnalité de chiffrement des données.
+	-fonctionnalité de gestion des accès physiques aux serveurs.
+	-fonctionnalité de gestion des accès distants aux serveurs.
+
+7-Archivage et suppression
+	-fonctionnalité d'archivage des documents.
+	-fonctionnalité de suppression des documents.
+	-fonctionnalité de gestion des politiques d'archivage et de suppression.
